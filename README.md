@@ -15,7 +15,7 @@
 ### 🚀 About Me
 
 - 🎓 BTech Computer Science Engineering student at **NIT Jamshedpur, India**
-- 🌱 Currently learning **Web Development**, **Data Structures in Java**, **Problem Solving**, and sharpening my **Communication skills**
+- 🌱 Currently learning **Web Development**, **Data Structures in C++**, **Problem Solving**, and sharpening my **Communication skills**
 - 👨‍💻 All my projects live at my portfolio: **[yashpandeycodes.github.io/portfolio](https://yashpandeycodes.github.io/portfolio/)**
 - 📫 Reach me at **yashpandey040709@gmail.com**
 
