@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Yash+Pandey+%F0%9F%91%8B;BTech+CSE+%40+NIT+Jamshedpur;Learning+Web+Dev+%2B+DSA+in+Java;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Yash+Pandey+%F0%9F%91%8B;BTech+CSE+%40+NIT+Jamshedpur;Learning+Web+Dev+%2B+DSA+in+C++;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=yashpandeycodes&label=Profile%20views&color=7AA2F7&style=flat" alt="yashpandeycodes" />
